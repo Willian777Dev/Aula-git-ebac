@@ -1,12 +1,12 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome:Willian.
+-Profissão:Pintor.
+-Cidade:Rio Negrinho.
+-O que faz nas horas vaga:Jogo video game e fico com a minha namorada.
+-Feedback sobre o curso Qualidade de Software:Muito bom.
+-Feedback sobre a plataforma de estudo da EBAC:Muito facil de compreender e saber onde esta.
 
-Obrigado!!!
+Obrigado!
 
 
